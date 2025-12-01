@@ -11,7 +11,7 @@
 **DiscFlow** brings the tactile soul of vinyl to your digital desktop. It's a floating widget that transforms your Spotify or Apple Music stream into a spinning record, complete with a moving tonearm and high-resolution cover art.
 
 <p align="center">
-  <img src="assets/turntable_base.png" width="300" alt="DiscFlow Widget">
+  <img src="assets/logo.png" width="300" alt="DiscFlow Widget">
 </p>
 
 ## 📻 F E A T U R E S
